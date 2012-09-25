@@ -26,11 +26,13 @@ The board may at any time establish branch or subordinate offices at any place o
 
 ## General Purpose ##
 
-The Corporation is a nonprofit public benefit corporation and is not organized for the private gain of any person.  It is organized under the Nonprofit Corporation Law of California ("California Nonprofit Corporation Law") for public and charitable purposes.
+This corporation is a nonprofit Public Benefit Corporation and is not organized for the private gain of any person. It is organized under the Nonprofit Public Benefit Corporation Law for public and charitable purposes.
+
+The purpose of this corporation is to promote, support, and advance technical, scientific, and artistic skills, innovation, and invention through individual and collaborative projects, community building, tool and resource access, education, and mentorship. Towards this purpose the corporation shall engage in charitable, scientific, and educational activities within the meaning of Section 501(c)(3) of the Internal Revenue Code.
 
 ## Specific Purpose ##
 
-The specific purpose of the Corporation is to promote, support, and advance technical, scientific, and artistic skills, innovation, and invention through individual and collaborative projects, community building, tool and resource access, education, and mentorship. Also in the context of these purposes, the Corporation shall engage in charitable, scientific, and educational activities within the meaning of Section 501(c)(3) of the Internal Revenue Code, including but not limited to:
+The specific purpose of the Corporation shall include without limitation:
 
   * Through talks, classes, workshops, collaborative projects, and other activities, to encourage research, knowledge exchange, learning, and mentoring in a safe, clean space.
   * Provide educational spaces for teaching practical skills and theory of technology, science, and art.
