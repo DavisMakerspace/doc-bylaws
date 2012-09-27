@@ -405,9 +405,14 @@ Notice of the time and place of holding an adjourned meeting need not be given u
 
 Any action that the board is required or permitted to take may be taken without a meeting if all board members consent in writing to the action; provided, however, that the consent of any director who has a material financial interest in a transaction to which the corporation is a party and who is an "interested director" as defined in Corporations Code section 5233 shall not be required for approval of that transaction. Such action by written consent shall have the same force and effect as any other validly approved action of the board. All such consents shall be filed with the minutes of the proceedings of the board.
 
-## Compensation ##
+## Fees and Compensation of Directors ##
 
-Directors shall not receive compensation for their services as directors or officers.
+The Corporation shall not pay any compensation to Directors for services rendered to the Corporation as Directors, except that Directors may be reimbursed for expenses incurred in the performance of their duties to the Corporation, in reasonable amounts as approved by the Board.
+
+Also, Directors may not be compensated for rendering services to the Corporation in a capacity other than as Directors, unless such compensation is reasonable and further provided that not more than 49% of the persons serving as Directors may be "interested persons" which, for purposes of this [Fees and Compensation of Directors][] only, means:
+
+  * any person currently being compensated by the Corporation for services rendered to it within the previous 12 months, whether as a full or part-time Officer or other employee, independent contractor, or otherwise, excluding any reasonable compensation paid to a Director as Director; or
+  * any brother, sister, ancestor, descendant, spouse, brother-in-law, sister-in-law, son-in-law, daughter-in-law, mother-in-law, or father-in-law of any such person.
 
 ## Committees of Board of Directors ##
 
@@ -491,6 +496,16 @@ The chief financial officer shall
   * have such other powers and perform such other duties as the board or the bylaws may require.
 
 If required by the board, the chief financial officer shall give the corporation a bond in the amount and with the surety or sureties specified by the board for faithful performance of the duties of the office and for restoration to the corporation of all of its books, papers, vouchers, money, and other property of every kind in the possession or under the control of the chief financial officer on his or her death, resignation, retirement, or removal from office.
+
+## Compensation of Officers ##
+
+### Salaries Fixed by Board ###
+
+The salaries of Officers, if any, shall be fixed from time to time by resolution of the Board or by the person or Committee to whom the Board has delegated this function, and no Officer shall be prevented from receiving such salary by reason of the fact that he or she is also a Director, provided, however, that such compensation paid to a Director for serving as an Officer shall only be allowed if permitted under the provisions of [Fees and Compensation of Directors][]. In all cases, any salaries received by Officers shall be reasonable and given in return for services actually rendered for the Corporation which relate to the performance of the public benefit purposes of the Corporation. No salaried Officer serving as a Director shall be permitted to vote on his or her own compensation as an Officer.
+
+### Fairness of Compensation ###
+
+The Board shall periodically review the fairness of compensation, including benefits, paid to every person, regardless of title, with powers, duties, or responsibilities comparable to the president, chief executive officer, treasurer, or chief financial officer (i) once such person is hired, (ii) upon any extension or renewal of such person’s term of employment, and (iii) when such person’s compensation is modified (unless all employees are subject to the same general modification of compensation).
 
 # Contracts With Directors #
 
