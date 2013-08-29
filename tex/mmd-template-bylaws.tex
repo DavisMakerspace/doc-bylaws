@@ -1,0 +1,45 @@
+\documentclass[10pt,oneside]{article}
+\usepackage[letterpaper, left=1.0in,right=1.0in,bottom=1.0in,top=1.0in]{tex/geometry}
+
+\usepackage{times}
+\usepackage{titlesec}
+
+\usepackage[usenames,dvipsnames]{color}
+\definecolor{DarkGray} {gray}{0.15}
+
+\usepackage[pdfpagelabels,
+      pagebackref,
+      colorlinks=true,
+      urlcolor=DarkGray,
+      linkcolor=blue,
+      citecolor=DarkGray,
+      plainpages=false,
+      pdftitle={\mytitle},
+      pdfauthor={\myauthor},
+%      pdfkeywords={\keywords},
+      pdfproducer={pdfLaTeX},
+      plainpages=false,
+      pdfpagemode=None]{hyperref}
+
+\title{\mytitle}
+\date{\mydate}
+
+\begin{document}
+
+\renewcommand{\contentsname}{\LARGE{Table of Contents}}
+
+\titleformat{\section}[hang]{\vspace{1em}\bfseries\uppercase}{\hspace{-1.2in}\makebox[1.2in]{ARTICLE~~\thesection\hfill}}{0pt}{\uppercase}
+\titleformat{\subsection}[hang]{\vspace{.5em}\bfseries}{\hspace{-1.2in}\makebox[1.2in]{Section~~\thesubsection\hfill}}{0pt}{}
+\titleformat{\subsubsection}[hang]{\vspace{.5em}\bfseries}{\hspace{-1.2in}\makebox[1.2in]{~~---~~\thesubsubsection\hfill}}{0pt}{}
+
+%\dottedcontents{section}[1in]{\hspace{-1in}\framebox[1in]{ARTICLE~~\thecontentslabel\hfill}}{1.1in}{.5em}
+%\titlecontents{section}[1.5em]{\bfseries}{ARTICLE~~\thecontentslabel}{}{\thecontentspage}
+
+\vfill
+\maketitle
+\vfill
+\newpage
+\tableofcontents
+\newpage
+
+\newgeometry{letterpaper, left=1.75in,right=1.0in,bottom=1.0in,top=1.0in}
