@@ -46,9 +46,11 @@ The specific purpose of the Corporation shall include without limitation:
 # Limitations #
 
 ## Political Activities ##
+
 The Corporation has been formed under California Nonprofit Corporation Law for the charitable purposes described in [Purposes][], and it shall be nonprofit and nonpartisan.  No substantial part of the activities of the Corporation shall consist of carrying on propaganda, or otherwise attempting to influence legislation, and the Corporation shall not participate in or intervene in any political campaign (including the publishing or distribution of statements) on behalf of, or in opposition to, any candidate for public office.
 
 ## Prohibited Activities ##
+
 The Corporation shall not, except in any insubstantial degree, engage in any activities or exercise any powers that are not in furtherance of the purposes described in [Purposes][].  The Corporation may not carry on any activity for the profit of its Officers, Directors or other persons or distribute any gains, profits or dividends to its Officers, Directors or other persons as such.  Furthermore, nothing in [Purposes][] shall be construed as allowing the Corporation to engage in any activity not permitted to be carried on (i) by a corporation exempt from federal income tax under section 501(c)(3) of the Internal Revenue Code of 1986, as amended (the "Code") or (ii) by a corporation, contributions to which are deductible under section 170(c)(2) of the Code.
 
 # Dedication of Assets #
