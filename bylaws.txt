@@ -2,13 +2,14 @@ Title             : Corporation Bylaws
 Author            : James R Holliday,
                     Braden Pellett,
                     Nicholas Weigand
-Date              : 29 August 2013
+Date              : 30 August 2013
+Version           : 2.0.20130830
 Base Header Level : 3
-css               : html/css/reset.css
-css               : html/css/bylaws.css
+CSS               : html/css/reset.css
+CSS               : html/css/bylaws.css
 HTML header       : <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 HTML header       : <script src="html/js/bylaws.js"></script>
-latex input       : tex/mmd-template-bylaws
+LaTeX input       : tex/mmd-template-bylaws
 
 # Name #
 
