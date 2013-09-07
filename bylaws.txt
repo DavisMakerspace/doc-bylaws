@@ -228,7 +228,7 @@ Also, Directors may not be compensated for rendering services to the Corporation
 
 ### Creation and Powers of Committees ###
 
-The board, by resolution adopted by a majority of the directors then in office, may create one or more committees, each consisting of two or more directors and no one who is not a director, to serve at the pleasure of the board. Appointments to committees of the board shall be by majority vote of the directors then in office. The board may appoint one or more directors as alternate members of any such committee, who may replace any absent board or committee member at any meeting. Any such committee shall have all the authority of the board, to the extent provided in the board resolution, except that no committee may do the following:
+The board, by resolution adopted by a majority of the directors then in office, may create one or more committees, to serve at the pleasure of the board. Appointments to committees of the board shall be by majority vote of the directors then in office. The board may appoint one or more directors as alternate members of any such committee, who may replace any absent board or committee member at any meeting. Any such committee shall have all the authority of the board, to the extent provided in the board resolution, except that no committee may do the following:
 
   * Take any final action on any matter that, under the California Nonprofit Public Benefit Corporation Law, also requires approval of the board;
   * Fill vacancies on the board or any committee of the board;
