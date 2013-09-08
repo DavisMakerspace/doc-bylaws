@@ -2,8 +2,8 @@ Title             : Corporation Bylaws
 Author            : James R Holliday,
                     Braden Pellett,
                     Nicholas Weigand
-Date              : 7 September 2013
-Version           : 2.0.20130907
+Date              : 8 September 2013
+Version           : 2.0.20130908
 Base Header Level : 3
 CSS               : html/css/reset.css
 CSS               : html/css/bylaws.css
