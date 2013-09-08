@@ -78,15 +78,7 @@ The Corporation shall have no members within the meaning of section 5056 of the 
 
 ## General Powers ##
 
-Subject to the provisions and limitations of the California Nonprofit Public Benefit Corporation Law and any other applicable laws, and subject to any limitations of the articles of incorporation or bylaws, the corporation's activities and affairs shall be managed, and all corporate powers shall be exercised, by or under the direction of the board.
-
-## Specific Powers ##
-
-Without prejudice to the general powers set forth in [General Powers][] of these bylaws, but subject to the same limitations, the board shall have the power to do the following:
-
-  * Appoint and remove, at the pleasure of the board, all corporate officers, agents, and employees; prescribe powers and duties for them as are consistent with the law, the articles of incorporation, and these bylaws; fix their compensation; and require from them security for faithful service.
-  * Change the principal office or the principal business office in California from one location to another: cause the corporation to be qualified to conduct its activities in any other state, territory, dependency, or country: conduct its activities in or outside California. and designate a place in or outside California for holding any public meeting.
-  * Borrow money and incur indebtedness on the corporation's behalf and cause to be executed and delivered for the corporation's purposes, in the corporate name, promissory notes, bonds, debentures, deeds of trust, mortgages, pledges, hypothecations, and other evidences of debt and securities.
+Subject to the provisions and limitations of the California Nonprofit Public Benefit Corporation Law and any other applicable laws, and subject to any limitations of the articles of incorporation or bylaws, the corporation's activities and affairs shall be managed, and all corporate powers shall be exercised, under the direction of the board.
 
 ## Number of and Qualifications for Directors ##
 
