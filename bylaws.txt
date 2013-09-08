@@ -2,8 +2,8 @@ Title             : Corporation Bylaws
 Author            : James R Holliday,
                     Braden Pellett,
                     Nicholas Weigand
-Date              : 30 August 2013
-Version           : 2.0.20130830
+Date              : 7 September 2013
+Version           : 2.0.20130907
 Base Header Level : 3
 CSS               : html/css/reset.css
 CSS               : html/css/bylaws.css
@@ -187,17 +187,6 @@ All such notices shall be given or sent to the director's address or telephone n
 Notices sent by first-class mail shall be deposited in the United States mails at least five days before the time set for the meeting. Notices given by personal delivery, telephone, or electronic transmission shall be delivered, telephoned, or sent, respectively, at least 48 hours before the time set for the meeting.
 
 The notice shall state the time of the meeting and the place, if the place is other than the corporation's principal office. The notice need not specify the purpose of the meeting.
-
-## Quorum ##
-
-A majority of the authorized number of directors shall constitute a quorum for the transaction of any business except adjournment. Every action taken or decision made by a majority of the directors present at a duly held meeting at which a quorum is present shall be an act of the board, subject to the more stringent provisions of the California Nonprofit Public Benefit Corporation Law, including, without limitation, those provisions relating to
-
-  * approval of contracts or transactions in which a director has a direct or indirect material financial interest,
-  * approval of certain transactions between corporations having common directorships,
-  * creation of and appointments to committees of the board, and
-  * indemnification of directors.
-
-A meeting at which a quorum is initially present may continue to transact business, despite the withdrawal of some directors from that meeting, if any action taken or decision made is approved by at least a majority of the required quorum for that meeting.
 
 ## Waiver of Notice ##
 
@@ -511,7 +500,29 @@ As part of the annual report, or as a separate document if no annual report is i
 
 # Construction and Definitions #
 
+## Construction ##
+
 Unless the context requires otherwise, the general provisions, rules of construction, and definitions in the California Nonprofit Corporation Law shall govern the construction of these bylaws. Without limiting the generality of the preceding sentence, the masculine gender includes the feminine and neuter, the singular includes the plural, the plural includes the singular, and the term "person" includes both a legal entity and a natural person.
+
+## Definitions ##
+
+### Quorum ###
+
+Attendance of all but one (1) of the authorized number of directors shall constitute a quorum for the transaction of any business except adjournment.  Every action taken or decision made by a consensus of the voting block at a duly held meeting at which a quorum is present shall be an act of the Corporation.
+
+Directors may waive participation in a meeting by submitting a notice of written consent.  This waiver is only valid for the specified meeting and reduces the authorized number of directors needed to reach quorum for that meeting.
+
+### Voting Block ###
+
+All eligible voters present at a meeting, either in person or represented by a proxy, that choose to participate in a call to vote shall constitute the voting block.  Every action taken or decision made by a consensus of the voting block at a duly held meeting at which a quorum is present shall be an act of the Corporation.
+
+### Consensus ###
+
+The affirmative vote of all but one (1) of the voting block shall be deemed an approval by consensus.  Every action taken or decision made by a consensus of the voting block at a duly held meeting at which a quorum is present shall be an act of the Corporation.
+
+### Eligible Voter ###
+
+Any director or officer of the Corporation is an eligible voter.  In addition, all persons of the general public shall be entitled to vote at any public meeting provided they have attended at least two (2) of the most recent three (3) public meetings.
 
 # Amendment of Bylaws #
 
