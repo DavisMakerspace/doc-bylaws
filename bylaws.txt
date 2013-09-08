@@ -138,21 +138,21 @@ Also, Directors may not be compensated for rendering services to the Corporation
 
 ## Offices Held ##
 
-The officers of this corporation shall be a president, a secretary, and a chief financial officer. The corporation, at the board's discretion, may also have a chairman of the board, one or more vice presidents, one or more assistant secretaries, one or more assistant treasurers, and such other officers as may be appointed under [Appointment of Other Officers][] of these bylaws.
+The officers of this corporation shall be a president, a secretary, and a chief financial officer. The corporation may also have a chairman of the board, one or more vice presidents, one or more assistant secretaries, one or more assistant treasurers, and such other officers as may be appointed under [Appointment of Other Officers][] of these bylaws.
 
 Any number of offices may be held by the same person, except that neither the secretary nor the chief financial officer may serve concurrently as either the president or the chairman of the board.
 
 ## Election of Officers ##
 
-The officers of this corporation, except any appointed under [Appointment of Other Officers][] of these bylaws, shall be chosen annually by the board and shall serve at the pleasure of the board, subject to the rights of any officer under any employment contract.
+The officers of this corporation, except any appointed under [Appointment of Other Officers][] of these bylaws, shall be chosen annually at a general meeting called for that purpose.
 
 ## Appointment of Other Officers ##
 
-The board may appoint and authorize the chairman of the board, the president, or another officer to appoint any other officers that the corporation may require. Each appointed officer shall have the title and authority, hold office for the period, and perform the duties specified in the bylaws or established by the board.
+The corporation may appoint and authorize the chairman of the board, the president, or any other officers that the corporation may require. Each appointed officer shall have the title and authority, hold office for the period, and perform the duties specified in the bylaws.
 
 ## Removal of Officers ##
 
-Without prejudice to the rights of any officer under an employment contract, the board may remove any officer with or without cause. An officer who was not chosen by the board may be removed by any other officer on whom the board confers the power of removal.
+Without prejudice to the rights of any officer under an employment contract, the corporation may remove any officer with or without cause.
 
 ## Resignation of Officers ##
 
@@ -166,46 +166,33 @@ A vacancy in any office because of death, resignation, removal, disqualification
 
 ### Chairman of the Board ###
 
-If a chairman of the board of directors is elected, he or she shall preside at board meetings and shall exercise and perform such other powers and duties as the board may assign from time to time. If there is no president, the chairman of the board shall also be the chief executive officer and shall have the powers and duties of the president of the corporation set forth in these bylaws.
+If a chairman of the board of directors is elected, he or she shall preside at all meetings and shall exercise and perform such other powers and duties as the corporation may assign from time to time. If there is no president, the chairman of the board shall also be the chief executive officer and shall have the powers and duties of the president of the corporation set forth in these bylaws.
 
 ### President ###
 
-Subject to such supervisory powers as the board may give to the chairman of the board, if any, and subject to the control of the board, the president shall be the general manager of the corporation and shall supervise, direct, and control the corporation's activities, affairs, and officers. The president shall preside at all public meetings and, in the absence of the chairman of the board, or if none, at all board meetings. The president shall have such other powers and duties as the board or the bylaws may require.
+Subject to such supervisory powers as the corporation may give to the chairman of the board, if any, the president shall be the general manager of the corporation and shall supervise, direct, and control the corporation's activities, affairs, and officers. The president shall preside in the absence of the chairman of the board, or if none, at all meetings. The president shall have such other powers and duties as the bylaws may require.
 
 ### Vice Presidents ###
 
-If the president is absent or disabled, the vice presidents, if any, in order of their rank as fixed by the board, or, if not ranked, a vice president designated by the board, shall perform all duties of the president. When so acting, a vice president shall have all powers of and be subject to all restrictions on the president. The vice presidents shall have such other powers and perform such other duties as the board or the bylaws may require.
+If the president is absent or disabled, the vice presidents, if any, in order of their rank as fixed by the corporation, or, if not ranked, a vice president designated by the corporation, shall perform all duties of the president. When so acting, a vice president shall have all powers of and be subject to all restrictions on the president. The vice presidents shall have such other powers and perform such other duties as the bylaws may require.
 
 ### Secretary ###
 
-The secretary shall keep or cause to be kept, at the corporation's principal office or such other place as the board may direct, a book of minutes of all meetings, proceedings, and actions of the board, of committees of the board, and of public meetings. The minutes of meetings shall include the time and place that the meeting was held; whether the meeting was annual, general, or special, and, if special, how authorized; the notice given; and the names of persons present.
+The secretary shall keep or cause to be kept, at the corporation's principal office or such other place as the board may direct, a book of minutes of all meetings, proceedings, and actions of the corporation. The minutes of meetings shall include the time and place that the meeting was held; whether the meeting was annual, general, or special, and, if special, how authorized; the notice given; and the names of persons present.
 
 The secretary shall keep or cause to be kept, at the principal California office, a copy of the articles of incorporation and bylaws, as amended to date.
 
-The secretary shall give, or cause to be given, notice of all meetings that these bylaws require to be given. The secretary shall keep the corporate seal, if any, in safe custody and shall have such other powers and perform such other duties as the board or the bylaws may require.
+The secretary shall give, or cause to be given, notice of all meetings that these bylaws require to be given. The secretary shall keep the corporate seal, if any, in safe custody and shall have such other powers and perform such other duties as the bylaws may require.
 
 ### Chief Financial Officer ###
 
-The chief financial officer shall keep and maintain, or cause to be kept and maintained, adequate and correct books and accounts of the corporation's properties and transactions. The chief financial officer shall send or cause to be given to the public and to directors such financial statements and reports as are required to be given by law, by these bylaws, or by the board. The books of account shall be open to inspection by any director at all reasonable times.
+The chief financial officer shall keep and maintain, or cause to be kept and maintained, adequate and correct books and accounts of the corporation's properties and transactions. The chief financial officer shall send or cause to be given to the public and to directors such financial statements and reports as are required to be given by law or by these bylaws. The books of account shall be open to inspection by any director at all reasonable times.
 
 The chief financial officer shall
-
-  * deposit, or cause to be deposited, all money and other valuables in the name and to the credit of the corporation with such depositories as the board may designate;
-  * disburse the corporation's funds as the board may order;
-  * render to the president, chairman of the board, if any, and the board, when requested, an account of all transactions as chief financial officer and of the financial condition of the corporation; and
-  * have such other powers and perform such other duties as the board or the bylaws may require.
-
-If required by the board, the chief financial officer shall give the corporation a bond in the amount and with the surety or sureties specified by the board for faithful performance of the duties of the office and for restoration to the corporation of all of its books, papers, vouchers, money, and other property of every kind in the possession or under the control of the chief financial officer on his or her death, resignation, retirement, or removal from office.
-
-## Compensation of Officers ##
-
-### Salaries Fixed by Board ###
-
-The salaries of Officers, if any, shall be fixed from time to time by resolution of the Board or by the person or Committee to whom the Board has delegated this function, and no Officer shall be prevented from receiving such salary by reason of the fact that he or she is also a Director, provided, however, that such compensation paid to a Director for serving as an Officer shall only be allowed if permitted under the provisions of [Fees and Compensation of Directors][]. In all cases, any salaries received by Officers shall be reasonable and given in return for services actually rendered for the Corporation which relate to the performance of the public benefit purposes of the Corporation. No salaried Officer serving as a Director shall be permitted to vote on his or her own compensation as an Officer.
-
-### Fairness of Compensation ###
-
-The Board shall periodically review the fairness of compensation, including benefits, paid to every person, regardless of title, with powers, duties, or responsibilities comparable to the president, chief executive officer, treasurer, or chief financial officer (i) once such person is hired, (ii) upon any extension or renewal of such person’s term of employment, and (iii) when such person’s compensation is modified (unless all employees are subject to the same general modification of compensation).
+  * deposit, or cause to be deposited, all money and other valuables in the name and to the credit of the corporation with such depositories as the corporation may designate;
+  * disburse the corporation's funds as the corporation may order;
+  * render to the president and chairman of the board, if any, when requested, an account of all transactions as chief financial officer and of the financial condition of the corporation; and
+  * have such other powers and perform such other duties as the bylaws may require.
 
 # Contracts With Directors #
 
