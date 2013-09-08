@@ -197,14 +197,11 @@ The chief financial officer shall
 # Contracts With Directors #
 
 No director of this corporation nor any other corporation, firm, association, or other entity in which one or more of this corporation's directors are directors or have a material financial interest, shall be interested, directly or indirectly, in any contract or transaction with this corporation, unless
-
-  * the material facts regarding that director's financial interest in such contract or transaction or regarding such common directorship, officership, or financial interest are fully disclosed in good faith and noted in the minutes, or are known to all members of the board prior to the board's consideration of such contract or transaction;
-  * such contract or transaction is authorized in good faith by a majority of the board by a vote sufficient for that purpose without counting the votes of the interested directors;
-  * before authorizing or approving the transaction, the board considers and in good faith decides after reasonable investigation that the corporation could not obtain a more advantageous arrangement with reasonable effort under the circumstances; and
+  * the material facts regarding that director's financial interest in such contract or transaction or regarding such common directorship, officership, or financial interest are fully disclosed in good faith and noted in the minutes, or are known to all members of the board prior to the consideration of such contract or transaction;
+  * such contract or transaction is authorized in good faith by the [Voting Block][]; and
   * the corporation for its own benefit enters into the transaction, which is fair and reasonable to the corporation at the time the transaction is entered into.
 
 This Section does not apply to a transaction that is part of an educational or charitable program of this corporation if it
-
   * is approved or authorized by the corporation in good faith and without unjustified favoritism and
   * results in a benefit to one or more directors or their families because they are in the class of persons intended to be benefited by the educational or charitable program of this corporation,
 
@@ -214,9 +211,7 @@ This corporation shall not lend any money or property to or guarantee the obliga
 
 # Indemnification #
 
-To the fullest extent permitted by law, this corporation shall indemnify its directors, officers, employees, and other persons described in Corporations Code section 5238(a), including persons formerly occupying any such positions, against all expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred by them in connection with any "proceeding," as that term is used in that section, and including an action by or in the right of the corporation, by reason of the fact that the person is or was a person described in that section. "Expenses," as used in this bylaw, shall have the same meaning as in that section of the Corporations Code. On written request to the board by any person seeking indemnification under Corporations Code section 5238(b) or section 5238(c) the board shall promptly decide under Corporations Code section 5238(e) whether the applicable standard of conduct set forth in Corporations Code section 5238(b) or section 5238(c) has been met and, if so, the board shall authorize indemnification. If the board cannot authorize indemnification, because the number of directors who are parties to the proceeding with respect to which indemnification is sought prevents the formation of a quorum of directors who are not parties to that proceeding, the board shall promptly call a public meeting. At that meeting, persons eligible to vote shall determine under Corporations Code section 5238(e) whether the applicable standard of conduct has been met and, if so, the eligible voters present at the meeting in person or by proxy shall authorize indemnification.
-
-To the fullest extent permitted by law and except as otherwise determined by the board in a specific instance, expenses incurred by a person seeking indemnification under this Article of these bylaws in defending any proceeding covered by that Section shall be advanced by the corporation before final disposition of the proceeding, on receipt by the corporation of an undertaking by or on behalf of that person that the advance will be repaid unless it is ultimately found that the person is entitled to be indemnified by the corporation for those expenses.
+To the fullest extent permitted by law, this corporation shall indemnify its directors, officers, employees, and other persons described in Corporations Code section 5238(a), including persons formerly occupying any such positions, against all expenses, judgments, fines, settlements, and other amounts actually and reasonably incurred by them in connection with any "proceeding," as that term is used in that section, and including an action by or in the right of the corporation, by reason of the fact that the person is or was a person described in that section. "Expenses," as used in this bylaw, shall have the same meaning as in that section of the Corporations Code.
 
 # Meetings #
 
@@ -315,7 +310,7 @@ Each person entitled to vote shall have the right to do so either in person or b
 
 ### Subject Matter of Proxy to Be Stated ###
 
-Any proxy covering matters for which a public vote is required shall not be valid unless the proxy sets forth the general nature of the matter to be voted on or, in an election of directors, the proxy lists the persons who have been nominated at the time the notice of the vote is given to the public. Such matters include amendments of the articles of incorporation or bylaws changing proxy rights; certain other amendments of the articles of incorporation; removal of directors without cause; filling vacancies on the board of directors; the sale, lease, exchange, conveyance, transfer, or other disposition of all or substantially all corporate assets, unless the transaction is in the usual and regular course of the corporation's activities; the principal terms of a merger or the amendment of a merger agreement; or the election to dissolve the corporation.
+Any proxy covering matters for which a public vote is required shall not be valid unless the proxy sets forth the general nature of the matter to be voted on.
 
 ### Revocability of Proxies ###
 
@@ -326,10 +321,6 @@ No proxy shall be valid after the expiration of 11 months from the date of the p
       * by a subsequent proxy executed by that person and presented to the meeting, or
       * as to any meeting, by that person's personal attendance and voting at the meeting; or
   * written notice of the death or incapacity of the maker of the proxy is received by the corporation before the vote under that proxy is counted. A proxy may not be irrevocable.
-
-## Adjournment and Notice of Adjourned Meetings ##
-
-Any public meeting may be adjourned from time to time by the vote of the majority of the voting power represented at the meeting, either in person or by proxy. No meeting may be adjourned for more than 45 days. When a public meeting is adjourned to another time or place, notice need not be given of the adjourned meeting if the time and place to which the meeting is adjourned (or the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which the public may participate) are announced at the meeting at which adjournment is taken. If after adjournment a new record date is fixed for notice or voting, a public notice of the adjourned meeting shall be given. At the adjourned meeting, the corporation may transact any business that might have been transacted at the original meeting.
 
 # Insurance #
 
@@ -355,7 +346,7 @@ This corporation shall keep at its principal California office the original or a
 
 ### Accounting Records and Minutes ###
 
-On written demand on the corporation, any person may inspect, copy, and make extracts of the accounting books and records and the minutes of the proceedings of the board of directors and committees of the board at any reasonable time for any reasonable purpose. Any such inspection and copying may be made in person or by the person's agent or attorney. This right of inspection extends to the records of any subsidiary of the corporation.
+On written demand on the corporation, any person may inspect, copy, and make extracts of the accounting books and records and meeting minutes.  Any such inspection and copying may be made in person or by the person's agent or attorney. This right of inspection extends to the records of any subsidiary of the corporation.
 
 ## Directors' Right to Inspect ##
 
