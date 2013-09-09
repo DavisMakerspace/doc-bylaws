@@ -78,7 +78,7 @@ Subject to the provisions and limitations of the California Nonprofit Public Ben
 
 ## Number of and Qualifications for Directors ##
 
-The board of directors shall consist of at least five (5) but no more than eleven (11) directors unless changed by amendment to these bylaws. The exact number of directors shall be fixed, within those limits, by a resolution approved by the [Voting Block][] adopted by the board of directors.
+The board of directors shall consist of at least five (5) but no more than eleven (11) directors unless changed by amendment to these bylaws. The exact number of directors shall be fixed, within those limits, by a resolution approved by the [Voting Power][] adopted by the board of directors.
 
 ## Vacancies on Board of Directors ##
 
@@ -87,7 +87,7 @@ The board of directors shall consist of at least five (5) but no more than eleve
 A vacancy or vacancies on the board of directors shall occur in the event of
 
   * the death, removal, or resignation of any director;
-  * the declaration by resolution of the [Voting Block][] of a vacancy in the office of a director who has been convicted of a felony, declared of unsound mind by a court order, or found by final order or judgment of any court to have breached a duty under California Nonprofit Public Benefit Corporation Law, Chapter 2, Article 3; or
+  * the declaration by resolution of the [Voting Power][] of a vacancy in the office of a director who has been convicted of a felony, declared of unsound mind by a court order, or found by final order or judgment of any court to have breached a duty under California Nonprofit Public Benefit Corporation Law, Chapter 2, Article 3; or
   * the increase of the authorized number of directors.
 
 ### Resignation of Directors ###
@@ -96,10 +96,10 @@ Except as provided below, any director may resign by giving written notice to th
 
 ### Removal of Directors ###
 
-  * Any director may be removed, with or without cause, by consensus of the [Voting Block][] at a special meeting called for that purpose, or at a regular meeting, provided that notice of that meeting and of the removal questions are given.
+  * Any director may be removed, with or without cause, by consensus of the [Voting Power][] at a special meeting called for that purpose, or at a regular meeting, provided that notice of that meeting and of the removal questions are given.
   * Any director who does not attend three successive board meetings will automatically be removed from the board without board resolution unless
-      * the director requests a leave of absence for a limited period of time, and the leave is approved by the [Voting Block][] at a regular or special meeting, or
-      * the director suffers from an illness or disability that prevents him or her from attending meetings and the board by resolution of the [Voting Block][] waives the automatic, removal procedure of this subsection.
+      * the director requests a leave of absence for a limited period of time, and the leave is approved by the [Voting Power][] at a regular or special meeting, or
+      * the director suffers from an illness or disability that prevents him or her from attending meetings and the board by resolution of the [Voting Power][] waives the automatic, removal procedure of this subsection.
 
 ## No Vacancy on Reduction of Number of Directors ##
 
@@ -196,7 +196,7 @@ The chief financial officer shall
 No director of this corporation nor any other corporation, firm, association, or other entity in which one or more of this corporation's directors are directors or have a material financial interest, shall be interested, directly or indirectly, in any contract or transaction with this corporation, unless
 
   * the material facts regarding that director's financial interest in such contract or transaction or regarding such common directorship, officership, or financial interest are fully disclosed in good faith and noted in the minutes, or are known to all members of the board prior to the consideration of such contract or transaction;
-  * such contract or transaction is authorized in good faith by the [Voting Block][]; and
+  * such contract or transaction is authorized in good faith by the [Voting Power][]; and
   * the corporation for its own benefit enters into the transaction, which is fair and reasonable to the corporation at the time the transaction is entered into.
 
 This Section does not apply to a transaction that is part of an educational or charitable program of this corporation if it
@@ -273,7 +273,7 @@ Each person entitled to vote may cast one vote on each matter submitted to a pub
 
 ## Approval by Consensus Vote ##
 
-The affirmative vote of all but one (1) of the non-interested voting power represented at the meeting, entitled to vote and voting on any matter, shall be deemed the act of the Corporation unless otherwise required by the California Nonprofit Public Benefit Corporation Law or by the articles of incorporation.
+The affirmative vote of all but one (1) of the non-interested [Voting Power][] represented at the meeting, entitled to vote and voting on any matter, shall be deemed the act of the Corporation unless otherwise required by the California Nonprofit Public Benefit Corporation Law or by the articles of incorporation.
 
 For any decision that is stalled by opposition of a minority of voting persons, a committee chaired by those in opposition shall be charged with the responsibility of assessing the conflict and developing an alternative course of action that better serves the mission of the Corporation. If this is not done within a reasonable time as determined by the board, a two-thirds majority vote shall decide the appropriate course of action.
 
@@ -368,9 +368,9 @@ Attendance of all but one (1) of the directors currently in office shall constit
 
 Directors may waive participation in a meeting by submitting a notice of written consent.  This waiver is only valid for the specified meeting and reduces the number of directors needed to reach quorum for that meeting.
 
-### Voting Block ###
+### Voting Power ###
 
-All eligible voters present at a meeting, either in person or represented by a proxy, that choose to participate in a call to vote shall constitute the voting block.
+All eligible voters present at a meeting, either in person or represented by a proxy, that choose to participate in a call to vote shall constitute the voting power for the issue under concideration.
 
 ### Consensus ###
 
