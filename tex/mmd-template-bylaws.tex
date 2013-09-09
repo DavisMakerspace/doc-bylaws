@@ -4,6 +4,7 @@
 \usepackage{times}
 \usepackage{titlesec}
 \usepackage{fancyhdr}
+\usepackage{parskip}
 
 \usepackage[usenames,dvipsnames]{color}
 \definecolor{DarkGray}{gray}{0.15}
@@ -34,6 +35,10 @@
 \titleformat{\section}[hang]{\vspace{1em}\bfseries\uppercase}{\hspace{-1.2in}\makebox[1.2in]{ARTICLE~~\thesection\hfill}}{0pt}{\uppercase}
 \titleformat{\subsection}[hang]{\vspace{.5em}\bfseries}{\hspace{-1.2in}\makebox[1.2in]{Section~~\thesubsection\hfill}}{0pt}{}
 \titleformat{\subsubsection}[hang]{\vspace{.5em}\bfseries}{\hspace{-1.2in}\makebox[1.2in]{~~---~~\thesubsubsection\hfill}}{0pt}{}
+
+\def\sectionautorefname{\S\negthinspace}
+\def\subsectionautorefname{\S\negthinspace}
+\def\subsubsectionautorefname{\S\negthinspace}
 
 \pagestyle{fancy}
 \fancyhf{}
