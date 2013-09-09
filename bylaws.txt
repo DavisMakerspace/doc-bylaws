@@ -388,13 +388,13 @@ Unless the context requires otherwise, the general provisions, rules of construc
 
 ### Quorum ###
 
-Attendance of all but one (1) of the authorized number of directors shall constitute a quorum for the transaction of any business except adjournment.  Every action taken or decision made by a consensus of the voting block at a duly held meeting at which a quorum is present shall be an act of the Corporation.
+Attendance of all but one (1) of the directors currently in office shall constitute a quorum for the transaction of any business except adjournment.
 
-Directors may waive participation in a meeting by submitting a notice of written consent.  This waiver is only valid for the specified meeting and reduces the authorized number of directors needed to reach quorum for that meeting.
+Directors may waive participation in a meeting by submitting a notice of written consent.  This waiver is only valid for the specified meeting and reduces the number of directors needed to reach quorum for that meeting.
 
 ### Voting Block ###
 
-All eligible voters present at a meeting, either in person or represented by a proxy, that choose to participate in a call to vote shall constitute the voting block.  Every action taken or decision made by a consensus of the voting block at a duly held meeting at which a quorum is present shall be an act of the Corporation.
+All eligible voters present at a meeting, either in person or represented by a proxy, that choose to participate in a call to vote shall constitute the voting block.
 
 ### Consensus ###
 
