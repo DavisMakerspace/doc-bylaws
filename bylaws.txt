@@ -105,18 +105,6 @@ Except as provided below, any director may resign by giving written notice to th
 
 Any reduction of the authorized number of directors shall not result in any director's being removed before his or her term of office expires.
 
-## Meetings of Board of Directors ##
-
-### Place of Board Meetings ###
-
-Meetings of the board shall be held at any place within or outside California that has been designated by resolution of the board or in the notice of the meeting or, if not so designated, at the principal office of the corporation.
-
-### Special Meetings ###
-
-#### Authority to Call Special Meetings ####
-
-Special meetings of the board for any purpose may be called at any time by the chairman of the board, if any, the president or any vice president, the secretary, or any two directors.
-
 ## Action Without a Meeting ##
 
 Any action that the board is required or permitted to take may be taken without a meeting if all board members consent in writing to the action; provided, however, that the consent of any director who has a material financial interest in a transaction to which the corporation is a party and who is an "interested director" as defined in Corporations Code section 5233 shall not be required for approval of that transaction. Such action by written consent shall have the same force and effect as any other validly approved action of the corporation. All such consents shall be filed with the minutes of the proceedings of the board.
@@ -246,7 +234,7 @@ No business, other than the business that was set forth in the notice of the mee
 
 ### General Notice Requirements ###
 
-Whenever the board is required or permitted to take any action at a meeting, a written notice of the meeting shall be given, under [Notice][] of these bylaws, to the general public. The notice shall specify the place, date, and hour of the meeting, and the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which the public may participate in the meeting. For the annual meeting, the notice shall state the matters that the board, at the time notice is given, intends to present for action. For a special meeting, the notice shall state the general nature of the business to be transacted and shall state that no other business may be transacted. The notice of any meeting at which directors are to be elected shall include the names of all persons who are nominees when notice is given.
+Whenever the board is required or permitted to take any action at a meeting, a written notice of the meeting shall be given to the general public. The notice shall specify the place, date, and hour of the meeting, and the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which the public may participate in the meeting. For the annual meeting, the notice shall state the matters that the board, at the time notice is given, intends to present for action. For a special meeting, the notice shall state the general nature of the business to be transacted and shall state that no other business may be transacted. The notice of any meeting at which directors are to be elected shall include the names of all persons who are nominees when notice is given.
 
 ### Notice of Certain Agenda items ###
 
