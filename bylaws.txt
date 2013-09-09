@@ -257,30 +257,6 @@ Approval of any of the following proposals, other than by unanimous approval by 
   * Amending the articles of incorporation; or
   * Electing to wind up and dissolve the corporation.
 
-### Manner of Giving Notice ###
-
-Notice of any public meeting shall be in writing and shall be given at least 7 but no more than 90 days before the meeting date. The notice shall be given either personally or by first-class, registered, or certified mail, or by other means of written communication, charges prepaid.
-
-Notice given by electronic transmission by the corporation shall be valid only if:
-
-  * Delivered by:
-      * facsimile telecommunication or electronic mail when directed to the facsimile number or electronic mail address, respectively, for that recipient on record with the corporation;
-      * posting on an electronic message board or network that the corporation has designated for those communications, together with a separate notice to the recipient of the posting, which transmission shall be validly delivered on the later of the posting or delivery of the separate notice of it; or
-      * other means of electronic communication;
-  * To a recipient who has provided an unrevoked consent to the use of those means of transmission for communications; and
-  * That creates a record that is capable of retention, retrieval, and review, and that may thereafter be rendered into clearly legible tangible form.
-
-Notwithstanding the foregoing:
-
-  * An electronic transmission by this corporation to any person is not authorized unless, in addition to satisfying the requirements of this section, the transmission satisfies the requirements applicable to consumer consent to electronic record as set forth in the Electronic Signatures in Global and National Commerce Act (15 United States Code section 7001 (c)(1)).
-  * Notice shall not be given by electronic transmission by the corporation after either of the following:
-      * the corporation is unable to deliver two consecutive notices to the person by that means or
-      * the inability so to deliver the notices to the person becomes known to the secretary, any assistant secretary, or any other person responsible for the giving of the notice.
-
-### Affidavit of Mailing Notice ###
-
-An affidavit of the mailing of any notice of any meeting, or of the giving of such notice by other means, may be executed by the secretary, assistant secretary, or any transfer agent of the corporation, and if so executed, shall be filed and maintained in the corporation's minute book.
-
 # Voting #
 
 ## Eligibility to Vote ##
