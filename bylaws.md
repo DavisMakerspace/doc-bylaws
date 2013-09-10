@@ -220,11 +220,11 @@ General meetings shall be held at any place within or outside California designa
 
 ### Authority to Call Special Meetings ###
 
-The chairman of the board, if any, or any director, may call a special meeting for any lawful purpose at any time.
+The chairman of the board, if any, or any director, may call a special meeting of the board for any lawful purpose at any time.
 
 ### Calling Special Meetings ###
 
-A special meeting called by any person entitled to call a meeting shall be called by written request, specifying the general nature of the business proposed to be transacted, and submitted to the chair of the board, if any, or the president or any vice president or the secretary of the corporation. The officer receiving the request shall cause notice to be given stating that a meeting will be held at a specified time and date fixed by the board, provided, however, that the meeting date shall be at least 35 but no more than 90 days after receipt of the request. If the notice is not given within 20 days after the request is received, the person or persons requesting the meeting may give the notice. Nothing in this Section shall be construed as limiting, fixing, or affecting the time at which a meeting may be held when the meeting is called by the board.
+A special meeting called by any person entitled to call a meeting shall be called by written request, specifying the general nature of the business proposed to be transacted, and submitted to the chair of the board, if any, or the president or any vice president or the secretary of the corporation. The officer receiving the request shall cause public notice to be given stating that a meeting of the board will be held at a specified time and date fixed by the board.
 
 ### Proper Business of Special Meeting ###
 
