@@ -2,8 +2,8 @@ Title             : Corporation Bylaws
 Author            : James R Holliday,
                     Braden Pellett,
                     Nicholas Weigand
-Date              : 8 September 2013
-Version           : 2.0.20130908
+Date              : 10 September 2013
+Version           : 2.0.20130910
 Base Header Level : 3
 CSS               : html/css/reset.css
 CSS               : html/css/bylaws.css
@@ -249,7 +249,7 @@ Approval of any of the following proposals is valid only if the notice or writte
 
 ## Eligibility to Vote ##
 
-Subject to the California Nonprofit Public Benefit Corporation Law, all persons of the general public shall be entitled to vote at any public meeting provided they have attended at least two (2) of the most recent three (3) public meetings.
+Subject to the California Nonprofit Public Benefit Corporation Law, all persons of the general public shall be entitled to vote at any public meeting on any action brought to a vote provided they have attended at least two (2) of the most recent three (3) public meetings and provided they are not an [Interested Party][] with respect to the action under consideration.
 
 ## Manner of Voting ##
 
@@ -358,7 +358,7 @@ Directors may waive participation in a meeting by submitting a notice of written
 
 ### Voting Power ###
 
-All eligible voters present at a meeting, either in person or represented by a proxy, that choose to participate in a call to vote shall constitute the voting power for the issue under concideration.
+All eligible voters present at a meeting, either in person or represented by a proxy, that choose to participate in a call to vote shall constitute the voting power for the issue under consideration.
 
 ### Consensus ###
 
@@ -366,7 +366,13 @@ The affirmative vote of all but one (1) of the non-interested [Voting Power][] r
 
 ### Eligible Voter ###
 
-Any director or officer of the Corporation is an eligible voter.  In addition, all persons of the general public shall be entitled to vote at any public meeting provided they have attended at least two (2) of the most recent three (3) public meetings.
+Any director or officer of the Corporation is an eligible voter.  In addition, all persons of the general public shall be entitled to vote at any public meeting provided they have attended at least two (2) of the most recent three (3) public meetings.  Eligibility to vote on a particular action is forbidden if the person is deemed to be an interested party with respect to the action.
+
+### Interested Party ###
+
+An eligible voter shall be deemed an interested party if he or his immediate family is the subject of a vote or if he or his immediate family stands to gain financially from the outcome of the vote.
+
+Any otherwise eligible voter who is an interested party with respect to a particular action called to vote is ineligible to participate in that vote.
 
 # Amendment of Bylaws #
 
