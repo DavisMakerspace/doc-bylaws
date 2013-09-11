@@ -7,8 +7,6 @@ Version           : 2.0.20130910
 Base Header Level : 3
 CSS               : html/css/reset.css
 CSS               : html/css/bylaws.css
-HTML header       : <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-HTML header       : <script src="html/js/bylaws.js"></script>
 LaTeX input       : tex/mmd-template-bylaws
 
 # Name #

@@ -13,3 +13,4 @@ pdf: bylaws.md
 html: bylaws.md
 	@echo "Building bylaws.html"
 	@multimarkdown bylaws.md > bylaws.html
+	@python html/format_html.py bylaws.html
