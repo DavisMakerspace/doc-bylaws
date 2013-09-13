@@ -78,6 +78,10 @@ Subject to the provisions and limitations of the California Nonprofit Public Ben
 
 The board of directors shall consist of at least five (5) but no more than eleven (11) directors unless changed by amendment to these bylaws. The exact number of directors shall be fixed, within those limits, by a resolution approved by the [Voting Power][] adopted by the board of directors.
 
+## Election of Board Directors ##
+
+The board of directors, shall be chosen annually at a general meeting called for that purpose.  All directors shall serve one year terms and shall hold office until the expiration of the term and until a successor has been elected.
+
 ## Vacancies on Board of Directors ##
 
 ### Events Causing Vacancies on Board ###
@@ -126,7 +130,7 @@ Any number of offices may be held by the same person, except that neither the se
 
 ## Election of Officers ##
 
-The officers of this corporation, except any appointed under [Appointment of Other Officers][] of these bylaws, shall be chosen annually at a general meeting called for that purpose.
+The officers of this corporation, except any appointed under [Appointment of Other Officers][] of these bylaws, shall be chosen annually at a general meeting called for that purpose.  All officers, elected and appointed, shall serve one year terms and shall hold office until the expiration of the term and until a successor has been elected or appointed.
 
 ## Appointment of Other Officers ##
 
