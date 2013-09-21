@@ -385,7 +385,7 @@ The Board may adopt, amend or repeal bylaws. Such power is subject to the follow
 
   * Where any provision of these Bylaws requires the vote of a larger proportion of the Directors than otherwise is required by law, such provision may not be altered, amended or repealed except by the vote of such greater number.
   * No amendment may extend the term of a Director beyond that for which such Director was elected.
-  * If bylaws are adopted, amended or repealed at a meeting of the Board, such action is authorized only at a duly called and held meeting for which written notice of such meeting, setting forth the proposed bylaw revisions with explanations therefor, is given in accordance with these Bylaws, unless such notice is waived in accordance with these Bylaws.
+  * Bylaws may only be adopted, amended or repealed subject to a vote by the [Voting Power][] at a [Public Meeting][] for which written notice of such meeting, setting forth the proposed bylaw revisions with explanations therefor, is given in accordance with these Bylaws.
 
 ## Amendments ##
 
