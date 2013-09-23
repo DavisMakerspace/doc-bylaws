@@ -239,7 +239,11 @@ No business, other than the business that was set forth in the notice of the mee
 
 Whenever the [Voting Power][] is required or permitted to take any action at a meeting, a written notice of the meeting shall be given to the general public no less than five (5) days before the meeting. The notice shall specify the place, date, and hour of the meeting, and the means of electronic transmission by and to the corporation or electronic video screen communication, if any, by which the public may participate in the meeting. The notice shall state the matters that the board, at the time notice is given, intends to present for action.  The notice of any meeting at which directors are to be elected shall include the names of all persons who are nominees when notice is given.
 
-### Notice of Certain Agenda items ###
+### Notice of Agenda items ###
+
+In order for any proper business item to be transacted at [General Meetings][], it must be listed on the meeting agenda.  Subject to the [General Notice Requirements][], any member of the general public may petition for an item to be added to the agenda and any [Eligible Voter][] may require an item be added to the agenda.
+
+### Special Notice of Certain Agenda items ###
 
 Approval of any of the following proposals is valid only if the notice or written waiver of notice states the general nature of the proposal or proposals:
 
