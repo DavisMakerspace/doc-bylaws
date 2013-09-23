@@ -213,7 +213,7 @@ A general meeting open to the public shall be held at least annually at such tim
 
 ### Public Meeting ###
 
-Additional meetings open to the public shall be held periodically at such time and place, and on such notice, if any, as the board may determine. Subject to [Notice][] of these bylaws, any proper business may be transacted at this meeting provided it is listed on the meeting agenda.
+Additional meetings open to the public shall be held at least monthly at such time and place, and on such notice, if any, as the board may determine. Subject to [Notice][] of these bylaws, any proper business may be transacted at this meeting provided it is listed on the meeting agenda.
 
 ### Place of Meeting ###
 
