@@ -3,8 +3,8 @@ Author            : James R Holliday,
                     Braden Pellett,
                     Nicholas Weigand,
                     Tim Feldman
-Date              : 18 September 2013
-Version           : 2.0.20130918
+Date              : 7 October 2013
+Version           : 2.1.20131007
 Base Header Level : 3
 CSS               : html/css/reset.css
 CSS               : html/css/bylaws.css
@@ -383,16 +383,8 @@ Any otherwise eligible voter who is an interested party with respect to a partic
 
 # Amendment of Bylaws #
 
-## Amendment by Directors ##
-
 The Board may adopt, amend or repeal bylaws. Such power is subject to the following limitations:
 
   * Where any provision of these Bylaws requires the vote of a larger proportion of the Directors than otherwise is required by law, such provision may not be altered, amended or repealed except by the vote of such greater number.
   * No amendment may extend the term of a Director beyond that for which such Director was elected.
   * Bylaws may only be adopted, amended or repealed subject to a vote by the [Voting Power][] at a [Public Meeting][] for which written notice of such meeting, setting forth the proposed bylaw revisions with explanations therefor, is given in accordance with these Bylaws.
-
-## Amendments ##
-
-    Version  : ___________________________________
-    Change   : ___________________________________
-    Ratified : ___________________________________
