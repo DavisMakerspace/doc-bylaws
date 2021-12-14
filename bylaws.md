@@ -77,7 +77,7 @@ Subject to the provisions and limitations of the California Nonprofit Public Ben
 
 ## Number of and Qualifications for Directors ##
 
-The board of directors shall consist of at least five (5) but no more than eleven (11) directors unless changed by amendment to these bylaws. The exact number of directors shall be fixed, within those limits, by a resolution approved by the [Voting Power][] adopted by the board of directors.
+The board of directors shall consist of at least four (4) but no more than eleven (11) directors unless changed by amendment to these bylaws. The exact number of directors shall be fixed, within those limits, by a resolution approved by the [Voting Power][] adopted by the board of directors.
 
 ## Election of Board Directors ##
 
